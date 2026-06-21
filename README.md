@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi, I'm Leo 👋
 
-<!--
-**CyberLeoZa/CyberLeoZa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Third-year Digital and Communication Engineering student
 
-Here are some ideas to get you started:
+I'm interested in Artificial Intelligence, software development, networking, and communication systems. I enjoy building practical projects involving machine learning, automation, and modern software tools while continuously expanding my technical skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+
+### Programming Languages
+- Python
+- C/C++
+- MATLAB
+
+### AI & Data
+- Machine Learning
+- Natural Language Processing (NLP)
+- LLM Integration
+- OpenAI API
+
+### Networking
+- TCP/IP
+- UDP
+- HTTP
+- DNS
+- Wireshark
+- Socket Programming
+- Network Analysis
+
+### Tools & Platforms
+- Git & GitHub
+- Linux
+- Docker
+- VS Code
+- Arduino
+
+## Current Focus
+- AI-powered applications
+- Local LLM development
+- Software engineering
+
+## Projects
+Check out my repositories to see what I'm currently building and experimenting with.
