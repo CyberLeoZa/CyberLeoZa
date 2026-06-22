@@ -1,6 +1,6 @@
 # Hi, I'm Leo 👋
 
-🎓 Third-year Digital and Communication Engineering student
+🎓 Fourth-year Digital and Communication Engineering student
 
 I'm interested in Artificial Intelligence, software development, networking, and communication systems. I enjoy building practical projects involving machine learning, automation, and modern software tools while continuously expanding my technical skills.
 
