@@ -33,10 +33,3 @@ I'm interested in Artificial Intelligence, software development, networking, and
 - VS Code
 - Arduino
 
-## Current Focus
-- AI-powered applications
-- Local LLM development
-- Software engineering
-
-## Projects
-Check out my repositories to see what I'm currently building and experimenting with.
